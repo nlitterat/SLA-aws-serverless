@@ -6,6 +6,7 @@ The code in this repository is an example of an AWS Lambda function which read d
 The reason for this is to calculate the Services SLA using serverless architecture 
 
 For a full explanation please refer to this article 
+https://www.linkedin.com/pulse/sla-aws-route53-cloudwatch-nehemia-litterat/
 
 
 
